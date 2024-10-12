@@ -1,3 +1,4 @@
+disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
@@ -13,9 +14,11 @@ title = "Nikush Patel"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
   name = "Nikush Patel"
+#   email = "youremail@example.com"
   image = "profile.jpg"
+#   imageQuality = 96
   headline = "I'm only human"
   bio = "A little bit about you"
   links = [
