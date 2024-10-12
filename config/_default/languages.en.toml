@@ -17,7 +17,7 @@ title = "Nikush Patel"
 [params.author]
   name = "Nikush Patel"
 #   email = "youremail@example.com"
-  image = "profile.jpg"
+#   image = "profile.jpg"
 #   imageQuality = 96
   headline = "I'm only human"
   bio = "A little bit about you"
