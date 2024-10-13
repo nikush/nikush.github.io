@@ -19,11 +19,11 @@ title = "Nikush Patel"
 #   email = "youremail@example.com"
 #   image = "profile.jpg"
 #   imageQuality = 96
-  headline = "I'm only human"
+  headline = "I have no idea what I'm doing"
   bio = "A little bit about you"
-  links = [
+#   links = [
 #     { email = "mailto:hello@your_domain.com" },
-     { github = "https://github.com/nikush" },
+#     { github = "https://github.com/nikush" },
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
-  ]
+#   ]
