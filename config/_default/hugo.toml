@@ -17,6 +17,9 @@ enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+[frontmatter]
+  date = [':filename', ':default']
+
 [imaging]
   anchor = 'Center'
 
